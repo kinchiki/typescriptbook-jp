@@ -1,0 +1,14 @@
+{
+  "name": "vitest-tutorial",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "test": "npx vitest run"
+  },
+
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.7"
+  }
+}
