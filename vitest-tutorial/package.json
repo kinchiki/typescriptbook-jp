@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "type": "module",
   "scripts": {
-    "test": "npx vitest run"
+    "test": "vitest run"
   },
 
   "devDependencies": {
